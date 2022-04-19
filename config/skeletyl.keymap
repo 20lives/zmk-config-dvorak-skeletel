@@ -85,7 +85,7 @@
 
         dvorak {
             bindings = <
-    &kp SQT        &kp COMMA      &kp DOT        &kp P          &kp Y          &kp F          &kp G           &KP C          &kp R          &kp L
+    &kp SQT        &kp COMMA      &kp DOT        &kp P          &kp Y          &kp F          &kp G           &kp C          &kp R          &kp L
     &hm LSHFT A    &hm LALT O     &hm LGUI E     &hm LCTRL U    &kp I          &kp D          &hm LCTRL H     &hm LGUI T     &hm LALT N     &hm LSHFT S
     &kp SEMI       &kp Q          &kp J          &kp K          &kp X          &kp B          &kp M           &kp W          &kp V          &kp Z
                                   &kp ESC        &kp BSPC       &mo RAISE      &mo LOWER      &kp SPACE       &kp RET
@@ -116,7 +116,7 @@
         raise_layer {
             bindings = <
     &kp F1         &kp F2         &kp F3         &kp F4         &kp F5         &kp PG_UP      &kp HOME       &kp UP          &kp END        &kp DEL
-    &kp F6         &kp F7         &kp F8         &kp F9         &kp F10        &kp PG_DN      &KP LEFT       &kp DOWN        &kp RIGHT      &kp TAB
+    &kp F6         &kp F7         &kp F8         &kp F9         &kp F10        &kp PG_DN      &kp LEFT       &kp DOWN        &kp RIGHT      &kp TAB
     &kp F11        &kp F12        &trans         &trans         &trans         &kp LBRC       &kp LBKT       &kp QMARK       &kp RBKT       &kp RBRC
                                   &trans         &trans         &trans         &trans         &trans         &trans
             >;
