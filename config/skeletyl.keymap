@@ -8,7 +8,7 @@
 #define DVORAK  0
 #define QWERTY  1
 #define RAISE   2
-#define LOWER   2
+#define LOWER   3
 
 / {
     behaviors {
